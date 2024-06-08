@@ -22,7 +22,7 @@
 
 ## :man_technologist: About Me:
 
-I am a passionate **Blockchain developer** from Germany and want to learn more about Blockchain and web3.
+I am a passionate **Blockchain Developer** from Germany and want to learn more about Blockchain and web3.
 
 - 🔭 I’m currently working on more blockchain and web3 projects.
 - 🌱 I’m want to work on DeFi Projects and explore more DeFi protocols (their smart contracts).
