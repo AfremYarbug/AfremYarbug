@@ -54,4 +54,4 @@ I am a passionate **Blockchain developer** from Germany and want to learn more a
 
 ## :fire: My Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Afrem05&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AfremYarbug)](https://git.io/streak-stats)
