@@ -30,7 +30,7 @@ I am a passionate **Blockchain Developer** from Germany and want to learn more a
 
 ## :hammer_and_wrench: Languages and Tools:
 
-![image](https://github.com/AfremYarbug/AfremYarbug/assets/170784190/8d082af5-ea0d-458c-af69-d6c4071804ff)
+![image](https://github.com/AfremYarbug/AfremYarbug/assets/170784190/ae02f664-5a92-4770-bbb0-5828b7d9da3c)
 
 ## :fire: My Stats:
 
