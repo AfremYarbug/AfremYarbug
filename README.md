@@ -26,7 +26,7 @@ I am a passionate **Blockchain Developer** from Germany and want to learn more a
 
 - 🔭 I’m currently working on more blockchain and web3 projects.
 - 🌱 I’m want to work on DeFi Projects and explore more DeFi protocols (their smart contracts).
-- 📫 How to reach me: email me [contactme@afremyarbug.com](mailto:contact@afremyarbug.com), you can also contact me from my [website](https://afremyarbug.com).
+- 📫 How to reach me: email me [contact@afremyarbug.com](mailto:contact@afremyarbug.com), you can also contact me from my [website](https://afremyarbug.com).
 
 ## :hammer_and_wrench: Languages and Tools:
 
